@@ -55,6 +55,8 @@ To compile the code, click on the "Solidity Compiler" tab in the left-hand sideb
 Once the code is compiled you have to go to the tab called "Deploy and  run Transactions" and then click the button called "Deploy". And there you can copy first the address so that you can mint and burn under the copied address. Now we can mint as much as many values as we want and burn as much as only equal to the remaining balance under the address.
 
 **AUTHOR**
+
+
 Metacrafter KiEL
 @Leamshii
 
